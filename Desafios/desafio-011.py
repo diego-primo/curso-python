@@ -1,6 +1,6 @@
 print('\nCom uma trena, meça a largura e a altura das paredes e depois multiplique estas metragens.')
 r = float(input('Digite o valor da metragem. Ex.:(15.6): '))
-demao = input('Haverá demão?\n Se sim, digite quantas demãos, se não só aperte -Enter- :  ')
+demao = input('\nHaverá demão?\n Se sim, digite quantas demãos, se não só aperte -Enter- :  ')
 lt = 2
 
 if demao == '':
